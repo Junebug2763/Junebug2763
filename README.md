@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Junebug2763/Junebug2763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Junebug2763! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning Python!
+- 🤔 I’m looking for help with Python.
+
+## 🛠️ Languages and Tools
+- **Languages:** 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+- **Tools:**
+  Pydroid 3 Mobile app
+
+## 📈 GitHub Stats
+![Junebug2763's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junebug2763&show_icons=true&theme=radical)
+
+Thank you for visiting my profile! Feel free to reach out to me for collaboration or just to say hi! 😄
